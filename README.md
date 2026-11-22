@@ -83,3 +83,14 @@ PharmaPulse demonstrates how Business Intelligence can help pharmaceutical whole
 
 Project Category: Business Intelligence & Analytics
 Domain: Pharmaceutical Wholesale Distribution
+
+## Dashboard Preview
+
+### 1. Sales Overview
+![Sales Overview](Sales_Overview.png)
+
+### 2. Inventory Analysis
+![Inventory Analysis](Inventory_Analysis.png)
+
+### 3. Purchase & Supplier Analysis
+![Purchase & Supplier Analysis](Purchase_Supplier_Analysis.png)
